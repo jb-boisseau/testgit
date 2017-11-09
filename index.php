@@ -10,9 +10,9 @@
     <h1>J'utilise Git</h1>
     <div class="container">
         <div class="row">
+            <h2> <?= echo 'nous sommes le ' . date('d-m-Y'); ?></h2>
             <img src="hyttoaoa.png">
         </div>
-        
     </div>
 </body>
 </html>
